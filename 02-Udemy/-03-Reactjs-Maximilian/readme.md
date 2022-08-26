@@ -22,7 +22,7 @@
 <br/>
 
 - [Section 6 Project Live Demo](https://goals-app-s6-mostafa.netlify.app/)
-- [Section 7 Project Live Demo]()
+- [Section 7 Project Live Demo](https://goal-app-s7-mostafa.netlify.app/)
 
 ### Section 8-9 Project
 
