@@ -112,7 +112,7 @@
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+- [Live Demo](https://ingredients-app-mostafa.netlify.app/)
 
 ### Section 29 Project
 
