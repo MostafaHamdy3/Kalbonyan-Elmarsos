@@ -15,4 +15,4 @@
 ---
 [Course-Link](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+[Certificate](https://www.udemy.com/certificate/UC-64dac182-8580-4674-a80d-b824b3e4808a/)
